@@ -1,0 +1,15 @@
+{
+  "name": "tellus",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel ./src/index.html --open --no-cache",
+    "build": "parcel build ./src/index.html --public-url ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
