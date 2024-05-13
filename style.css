@@ -203,9 +203,6 @@ a {
 	margin: 145px 0;
 }
 
-.savings__wrapper {
-
-}
 .savings__left-and-right {
 	display: flex;
 	gap: 40px;
@@ -311,10 +308,6 @@ a {
 	gap: 95px;
 }
 
-.reimagine__item {
-
-}
-
 .reimagine__subtitle {
 	font-family: "Chivo", sans-serif;
 	font-weight: 400;
@@ -366,9 +359,6 @@ a {
 }
 
 /* Quotes */
-
-.quotes {
-}
 
 .quotes__wrapper {
 	display: flex;
@@ -427,7 +417,7 @@ a {
 /* Deposit */
 
 .deposit {
-	background: url('/img/deposit.png');
+	background: url('./img/deposit.png');
 	background-size: cover;
 	min-height: 1666px;
 }
@@ -521,10 +511,6 @@ a {
 	padding: 200px 0;
 }
 
-.built__wrapper {
-
-}
-
 .built__left-and-right {
 	display: flex;
 	justify-content: center;
@@ -538,19 +524,11 @@ a {
 	flex-grow: 1;
 }
 
-.built__left {
-
-}
-
 .built__quote {
 	font-weight: 400;
 	font-size: 12px;
 	line-height: 21px;
 	letter-spacing: 0.28px;
-}
-
-.built__right {
-
 }
 
 .built__quote {
@@ -564,10 +542,6 @@ a {
 	background-color: #D2D9E1;
 }
 
-.earn__wrapper {
-
-}
-
 .earn__left-and-right {
 	display: flex;
 	gap: 70px;
@@ -576,10 +550,6 @@ a {
 .earn__left-and-right div {
 	flex-basis: 0;
 	flex-grow: 1;
-}
-
-.earn__left {
-
 }
 
 .earn__title {
@@ -647,10 +617,6 @@ a {
 
 .ques {
 	padding: 200px 0;
-}
-
-.ques__wrapper {
-
 }
 
 .ques__title {
@@ -739,19 +705,11 @@ a {
 	flex-grow: 1;
 }
 
-.ready__left {
-
-}
-
 .ready__title {
 	font-size: 54px;
 	font-weight: 400;
 	letter-spacing: 2.56px;
 	color: #fff;
-}
-
-.ready__right {
-
 }
 
 .ready__answer {
@@ -823,10 +781,6 @@ a {
 	gap: 12px;
 }
 
-.footer__social {
-
-}
-
 .footer__btn-tellus {
 	font-family: "Chivo", sans-serif;
 	font-weight: 400;
@@ -851,10 +805,6 @@ a {
 	border-bottom: 1px #FFFFFF10 solid;
 }
 
-.container {
-
-}
-
 .marking__things {
 margin-bottom: 80px;
 
@@ -864,10 +814,6 @@ margin-bottom: 80px;
 	font-size: 11px;
 	line-height: 18px;
 	margin-bottom: 20px;
-}
-
-.marking__definitions {
-
 }
 
 .marking__title {
